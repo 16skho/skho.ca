@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-size: 50px;
+	background-color: #eb34cc;
+    font-family: 'Recursive', sans-serif;
+    padding-top: 250px;
+}
+
+div.p{
+    padding-top: 0px;
+    font-size: 25px;
+    font-family: 'Nanum Pen Script', cursive;
+}
